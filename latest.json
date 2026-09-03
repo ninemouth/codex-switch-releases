@@ -1,23 +1,23 @@
 {
-  "version": "0.4.2",
-  "notes": "Mac and Windows installers for Codex Switch v0.4.2.",
+  "version": "0.5.0",
+  "notes": "Mac and Windows installers for Codex Switch v0.5.0.",
   "pub_date": "2026-09-03T04:14:02.421Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WXlyU3ZlN3hPcSsrejZHV0xOVEVrNWkwZmJHVE95TUY0c3JaZ3BMc3NQdG9CamJiaUk3SUgwaHlnUkJyeEVsdmJBQk96cVBvakxKQWlHYXBnMDhXakE0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA3OTAwCWZpbGU6Q29kZXggU3dpdGNoLmFwcC50YXIuZ3oKUEtQT0pOMVRBNUxRQlBLMU96Y2VFTy9kVGN2QVo3V01ESWlkLzJqZG1XbjVvVGFJa1hqT2xCWWtBUDU1NE5sNlhReFI2MWZsaUR5QlRJMzAvWmVBRFE9PQo=",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WS9aM3h1bzdNazRyS1JCK2JQbE1xOWVvZjg4YnJFc2V3T0pKdDBxRkNoNUh3VXNCbXI5R1JBVWxaSDBUK1czWEx3cS9yUFMvNDJkNlBQYm5HRkkwb1FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDEwOTY1CWZpbGU6Q29kZXggU3dpdGNoLmFwcC50YXIuZ3oKVDE2WjdYSkIrQ28yak9sb3EyeGdGQ052eWVDTDNtaDZZT2F5NXRDVFVicUVPWmtxczJLUzNicFFyaG45NGlZQ25XTVV1c09HZG5idXlUSjNtTy9nQnc9PQo=",
       "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WXpKTHdJMW14dTdEcmVrYnF4eGF1Nk9PRFI3cmNWdXFZakhXK0dhQ1kvYWx6VTZmMm1xWXpmeDlEeVJuQk55ejBrbEhORzNiU2dpcGdVNzZ1dTdycXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA4ODMzCWZpbGU6Q29kZXggU3dpdGNoXzAuNC4yX3g2NC1zZXR1cC5leGUKRUxPWndDNUpZZThoekR2YU5lZ2hLLzNEMVh4SXlSQWZ6UmRYUGkxZXE4Q2xERExCTExVZ3JQR1RDS1llNFJWUDZXSGpaWVdjVGlxL2dIbGhqQm0zQ1E9PQo=",
-      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WXd2YUsvckhZK3UxU09LZUQyc1o4M3plcG5jSE5HQnZmVTYvQ3JYSzVIcmoyMllFLzF2N0Npa2k1TjJLNmNzL2QvcnRhbjdSaDVURFBJQVdCMStmNHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDExOTE3CWZpbGU6Q29kZXggU3dpdGNoXzAuNS4wX3g2NC1zZXR1cC5leGUKcUZmTEdQRnA5TjU0RG5XNThibkZDckM4d1RzZGQwcm5ZZ3R5M1JlaXFOLzQvZlI4SCtrbXhnQUtnNGY4a2tSV2ZpdzZNT2pOdjF2TDd4UysxQUp0Q2c9PQo=",
+      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.5.0_x64-setup.exe"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WXpKTHdJMW14dTdEcmVrYnF4eGF1Nk9PRFI3cmNWdXFZakhXK0dhQ1kvYWx6VTZmMm1xWXpmeDlEeVJuQk55ejBrbEhORzNiU2dpcGdVNzZ1dTdycXdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA4ODMzCWZpbGU6Q29kZXggU3dpdGNoXzAuNC4yX3g2NC1zZXR1cC5leGUKRUxPWndDNUpZZThoekR2YU5lZ2hLLzNEMVh4SXlSQWZ6UmRYUGkxZXE4Q2xERExCTExVZ3JQR1RDS1llNFJWUDZXSGpaWVdjVGlxL2dIbGhqQm0zQ1E9PQo=",
-      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.4.2_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WXd2YUsvckhZK3UxU09LZUQyc1o4M3plcG5jSE5HQnZmVTYvQ3JYSzVIcmoyMllFLzF2N0Npa2k1TjJLNmNzL2QvcnRhbjdSaDVURFBJQVdCMStmNHdzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDExOTE3CWZpbGU6Q29kZXggU3dpdGNoXzAuNS4wX3g2NC1zZXR1cC5leGUKcUZmTEdQRnA5TjU0RG5XNThibkZDckM4d1RzZGQwcm5ZZ3R5M1JlaXFOLzQvZlI4SCtrbXhnQUtnNGY4a2tSV2ZpdzZNT2pOdjF2TDd4UysxQUp0Q2c9PQo=",
+      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.5.0_x64-setup.exe"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WTJBSkFiaDZCRzE1ZTVLcVJBM2tBeVpoSzRjN3pYNWdUWk85bi8yd3VhMGFpZ3p5S0x4b3IvS1FRMXh6c2c1a1RwWEd3TU5GVGV2ZnlZaktLUm5aK1FBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDA4ODMzCWZpbGU6Q29kZXggU3dpdGNoXzAuNC4yX3g2NF9lbi1VUy5tc2kKSFJhUitRd2dOTDF5NUx1LzZQZW9seHVvSFREVHViQm9ybnNXdmlBZW9ObGVkMjJwN0daVThVeDFYN1VubThtSjBTOFpySU96VnJGOXdpbllXeWJUQWc9PQo=",
-      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.4.2_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTMjAwWUljNEx5WTN2RitnSnNXcG51M2ZyZVlUL1ovY050VW0ranRoaXlqVW4vOGlRcTBHZzRuMkJtZXpZUGNCVERrRXZMakh1RW41ekdYQkJHTldrc2daNWRYOGx3SlFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDExOTE3CWZpbGU6Q29kZXggU3dpdGNoXzAuNS4wX3g2NF9lbi1VUy5tc2kKdWhSVDhmbjlHWFplQm1iZ0pXbEsvTWVzZUZUWm9LZG1sSDEzK3RGdTQxeUd6WFRyMURpejB1QStQYWM2SWhBWmdQbjBqemNRbjRrWFkrUlFCZmNNRHc9PQo=",
+      "url": "https://github.com/ninemouth/codex-switch-releases/releases/download/latest/Codex.Switch_0.5.0_x64_en-US.msi"
     }
   }
 }
